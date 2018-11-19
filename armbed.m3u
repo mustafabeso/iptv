@@ -1,5 +1,5 @@
 #EXTINF:-1,Bein Sports 1 TELVAZY فرجة طيبة
-httphost://$http-raw=http://www.247bay.tv/hembedplayer/BEINO1KL/2/600/420$http-refferer=http://arembed.com/live.php?ch=Bein_Sports1
+httphost://$http-raw=http://www.247bay.tv/hembedplayer/BEINO1KL/2/600/420$http-refferer=http://arembed.com/live.php?ch=Bein_Sports1&vw=620&vh=460
 #EXTINF:-1,Bein Sports 2 TELVAZY TV
 httphost://$http-raw=http://www.247bay.tv/hembedplayer/beino2kk/2/600/420$http-refferer=http://arembed.com/live.php?ch=Bein_Sports2
 #EXTINF:-1,Bein Sports 3 TELVAZY TV
