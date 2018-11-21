@@ -1,20 +1,32 @@
-#EXTINF:-1,Bein Sports 1 TELVAZY فرجة طيبة
-httphost://$http-raw=http://www.247bay.tv/membedplayer/BEINO1KL/2/600/420$http-refferer=http://arembed.com/live.php?ch=Bein_Sports1&vw=620&vh=460
-#EXTINF:-1,Bein Sports 2 TELVAZY TV
-httphost://$http-raw=http://www.247bay.tv/embedplayer/beino2kk/2/600/420$http-refferer=http://arembed.com/live.php?ch=Bein_Sports2
-#EXTINF:-1,Bein Sports 3 TELVAZY TV
-httphost://$http-raw=http://www.247bay.tv/hembedplayer/beinsport3ahz/2/600/420$http-refferer=http://arembed.com/live.php?ch=Bein_Sports3
-#EXTINF:-1,Bein Sports 4 TELVAZY TV
-httphost://$http-raw=http://www.247bay.tv/hembedplayer/beinsports4gzbaaaa/2/600/420$http-refferer=http://arembed.com/live.php?ch=Bein_Sports4
-#EXTINF:-1,Bein Sports 5 TELVAZY TV
-httphost://$http-raw=http://www.247bay.tv/hembedplayer/beino5kk/2/600/420$http-refferer=http://arembed.com/live.php?ch=Bein_Sports5
-#EXTINF:-1,Bein Sports 6 TELVAZY TV
-httphost://$http-raw=http://www.247bay.tv/hembedplayer/beinsports6hzbaga/2/600/420$http-refferer=http://arembed.com/live.php?ch=Bein_Sports6
-#EXTINF:-1,Bein Sports 7 TELVAZY TV
-httphost://$http-raw=http://www.247bay.tv/hembedplayer/beino7kk/2/600/420$http-refferer=http://arembed.com/live.php?ch=Bein_Sports7
-#EXTINF:-1,Bein Sports 8 TELVAZY TV
-httphost://$http-raw=http://www.247bay.tv/hembedplayer/beino8okk/2/600/420$http-refferer=http://arembed.com/live.php?ch=Bein_Sports8
-#EXTINF:-1,Bein Sports 9 TELVAZY TV
-httphost://$http-raw=http://www.247bay.tv/hembedplayer/beinsportsz9ah/2/600/420$http-refferer=http://arembed.com/live.php?ch=Bein_Sports9
-#EXTINF:-1,Bein Sports 10 TELVAZY TV
-httphost://$http-raw=http://www.247bay.tv/hembedplayer/beino10iok/2/600/420$http-refferer=http://arembed.com/live.php?ch=Bein_Sports10
+#EXTINF:-1,AR:BEINSPORTS-1 SD
+http://163.172.8.51:8000/live/207160093/207160093/1130.ts
+#EXTINF:-1,AR:BEINSPORTS-2 SD
+http://163.172.8.51:8000/live/207160093/207160093/1129.ts
+#EXTINF:-1,AR:BEINSPORTS-3 SD
+http://163.172.8.51:8000/live/207160093/207160093/1128.ts
+#EXTINF:-1,AR:BEINSPORTS-4 SD
+http://163.172.8.51:8000/live/207160093/207160093/1127.ts
+#EXTINF:-1,AR:BEINSPORTS-5 SD
+http://163.172.8.51:8000/live/207160093/207160093/1126.ts
+#EXTINF:-1,AR:BEINSPORTS-6 SD
+http://163.172.8.51:8000/live/207160093/207160093/1125.ts
+#EXTINF:-1,AR:BEINSPORTS-7 SD
+http://163.172.8.51:8000/live/207160093/207160093/1124.ts
+#EXTINF:-1,AR:BEINSPORTS-8 SD
+http://163.172.8.51:8000/live/207160093/207160093/1123.ts
+#EXTINF:-1,BEINSPORT 1Low
+http://163.172.8.51:8000/live/207160093/207160093/627.ts
+#EXTINF:-1,BEINSPORT 2Low
+http://163.172.8.51:8000/live/207160093/207160093/626.ts
+#EXTINF:-1,BEINSPORT 3Low
+http://163.172.8.51:8000/live/207160093/207160093/625.ts
+#EXTINF:-1,BEINSPORT 4Low
+http://163.172.8.51:8000/live/207160093/207160093/624.ts
+#EXTINF:-1,BEINSPORT 5Low
+http://163.172.8.51:8000/live/207160093/207160093/623.ts
+#EXTINF:-1,BEINSPORT 6Low
+http://163.172.8.51:8000/live/207160093/207160093/622.ts
+#EXTINF:-1,BEINSPORT 7Low
+http://163.172.8.51:8000/live/207160093/207160093/621.ts
+#EXTINF:-1,BEINSPORT 8Low
+http://163.172.8.51:8000/live/207160093/207160093/620.ts
