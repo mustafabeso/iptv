@@ -1,4 +1,29 @@
+
+#EXTINF:-1,Bein Sports 1 sd  
+httphost://$http-raw=https://www.janjua.tv/hembedplayer/vnb111111111/1/620/420$http-refferer=https://aflam4you.tv/emb472.php?vid=68&aflam_s=1&aflam_w=%27+der1+%27&aflam_h=%27+der2+%27%22%20name=%22Player31313%22%20width=%22%27+der1+%27%22%20height=%22%27+der2+%27%22%20frameborder=%220%22%20scrolling=%22No%22%20allowfullscreen=%22allowfullscreen
+#EXTINF:-1,Bein Sports 2 sd  
+httphost://$http-raw=https://www.janjua.tv/hembedplayer/bn2222222/1/620/420$http-refferer=https://aflam4you.tv/emb472.php?vid=2&aflam_s=1&aflam_w=%27+der1+%27&aflam_h=%27+der2+%27%22%20name=%22Player31313%22%20width=%22%27+der1+%27%22%20height=%22%27+der2+%27%22%20frameborder=%220%22%20scrolling=%22No%22%20allowfullscreen=%22allowfullscreen%22
 #EXTINF:-1,Bein Sports 3 sd  
-httphost://$http-raw=https://www.janjua.tv/hembedplayer/bieno1isk/1/620/420$http-refferer=https://arembed.com/live.php?ch=Bein_Sports1/620/420
-
-
+httphost://$http-raw=https://www.janjua.tv/hembedplayer/beinsports3hzbaaac/1/620/420$http-refferer=https://arembed.com/live.php?ch=Bein_Sports3/620/420
+#EXTINF:-1,Bein Sports 4 sd  
+httphost://$http-raw=https://www.janjua.tv/hembedplayer/beinsports4ad/1/620/420$http-refferer=https://arembed.com/live.php?ch=Bein_Sports4/620/420
+#EXTINF:-1,Bein Sports 5 sd  
+httphost://$http-raw=https://www.janjua.tv/hembedplayer/stream_bein5az/1/620/420$http-refferer=https://arembed.com/live.php?ch=Bein_Sports5/620/420
+#EXTINF:-1,Bein Sports 6 sd  
+httphost://$http-raw=https://www.janjua.tv/hembedplayer/beino6sij/1/620/420$http-refferer=https://arembed.com/live.php?ch=Bein_Sports6/620/420
+#EXTINF:-1,Bein Sports 7 sd  
+httphost://$http-raw=https://www.janjua.tv/hembedplayer/stream_bein7hz/1/620/420$http-refferer=https://arembed.com/live.php?ch=Bein_Sports7/620/420
+#EXTINF:-1,Bein Sports 8 sd  
+httphost://$http-raw=https://www.janjua.tv/hembedplayer/beinsports_8/1/620/420$http-refferer=https://arembed.com/live.php?ch=Bein_Sports8/620/420
+#EXTINF:-1,Bein Sports 9 sd  
+httphost://$http-raw=https://www.janjua.tv/hembedplayer/beinsports9a/1/620/420$http-refferer=https://arembed.com/live.php?ch=Bein_Sports9/620/420
+#EXTINF:-1,Bein Sports 10 sd  
+httphost://$http-raw=https://www.janjua.tv/hembedplayer/beinsports10hdaz/1/620/420$http-refferer=https://arembed.com/live.php?ch=Bein_Sports10/620/420
+#EXTINF:-1,Bein Sports Max 1 
+httphost://$http-raw=https://www.janjua.tv/hembedplayer/beinsportrsmax1/1/620/420$http-refferer=https://arembed.com/live.php?ch=Bein_Sports1Max/620/420
+#EXTINF:-1,Bein Sports Max 2 
+httphost://$http-raw=https://www.janjua.tv/hembedplayer/beinsports2max/1/620/420$http-refferer=https://arembed.com/live.php?ch=Bein_Sports2Max/620/420
+#EXTINF:-1,Bein Sports Max 3  
+httphost://$http-raw=https://www.janjua.tv/hembedplayer/beinsports3max/1/620/420$http-refferer=https://arembed.com/live.php?ch=Bein_Sports2Max/620/420
+#EXTINF:-1,Bein Sports Max 4  
+httphost://$http-raw=https://www.janjua.tv/hembedplayer/beinsports4max/1/620/420$http-refferer=https://arembed.com/live.php?ch=Bein_Sports4Max/620/420
