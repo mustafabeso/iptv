@@ -1,20 +1,27 @@
-#EXTINF:-1 tvg-ID="HD1" tvg-name="BeINsport_HD1_Low" tvg-logo="http://universeiptv.org/pics/be_in_tr_sports_01_hd.png" group-title="BEIN",BeINsport_HD1_Low
-http://185.71.66.108:8000/mk8800/mk8800/16
-#EXTINF:-1 tvg-ID="HD2" tvg-name="BeINsport_HD2_Low" tvg-logo="http://universeiptv.org/pics/bein_hd2.png" group-title="BEIN",BeINsport_HD2_Low
-http://185.71.66.108:8000/mk8800/mk8800/17
-#EXTINF:-1 tvg-ID="HD3" tvg-name="BeINsport_HD3_Low" tvg-logo="http://universeiptv.org/pics/be_in_mena_sports_03_hd.png" group-title="BEIN",BeINsport_HD3_Low
-http://185.71.66.108:8000/mk8800/mk8800/18
-#EXTINF:-1 tvg-ID="HD4" tvg-name="BeINsport_HD4_Low" tvg-logo="http://universeiptv.org/pics/be_in_mena_sports_04_hd.png" group-title="BEIN",BeINsport_HD4_Low
-http://185.71.66.108:8000/mk8800/mk8800/19
-#EXTINF:-1 tvg-ID="HD5" tvg-name="BeINsport_HD5_Low" tvg-logo="http://universeiptv.org/pics/be_in_mena_sports_05_hd.png" group-title="BEIN",BeINsport_HD5_Low
-http://185.71.66.108:8000/mk8800/mk8800/20
-#EXTINF:-1 tvg-ID="HD6" tvg-name="BeINsport_HD6_Low" tvg-logo="http://universeiptv.org/pics/be_in_mena_sports_06_hd.png" group-title="BEIN",BeINsport_HD6_Low
-http://185.71.66.108:8000/mk8800/mk8800/21
-#EXTINF:-1 tvg-ID="HD7" tvg-name="BeINsport_HD7_Low" tvg-logo="http://universeiptv.org/pics/be_in_mena_sports_07_hd.png" group-title="BEIN",BeINsport_HD7_Low
-http://185.71.66.108:8000/mk8800/mk8800/22
-#EXTINF:-1 tvg-ID="HD8" tvg-name="BeINsport_HD8_Low" tvg-logo="http://universeiptv.org/pics/be_in_mena_sports_08_hd.png" group-title="BEIN",BeINsport_HD8_Low
-http://185.71.66.108:8000/mk8800/mk8800/23
-#EXTINF:-1 tvg-ID="HD9" tvg-name="BeINsport_HD9_Low" tvg-logo="http://universeiptv.org/pics/be_in_mena_sports_09_hd.png" group-title="BEIN",BeINsport_HD9_Low
-http://185.71.66.108:8000/mk8800/mk8800/24
-#EXTINF:-1 tvg-ID="" tvg-name="BeINsport_HD10_Low" tvg-logo="http://universeiptv.org/pics/be_in_mena_sports_10_hd.png" group-title="BEIN",BeINsport_HD10_Low
-http://185.71.66.108:8000/mk8800/mk8800/25
+#EXTM3U
+#EXTVLCOPT:http-user-agent=yacine00
+#EXTINF:-1 tvg-id="" tvg-name="bein low-1" tvg-logo="" group-title="",bein low-1
+http://yacine-tvapk.ddns.net:8000/www.yacineapp.tv1/www.yacineapp.tv1/229
+#EXTVLCOPT:http-user-agent=yacine00
+#EXTINF:-1 tvg-id="" tvg-name="bein low-2" tvg-logo="" group-title="",bein low-2
+http://yacine-tvapk.ddns.net:8000/www.yacineapp.tv1/www.yacineapp.tv1/228
+#EXTVLCOPT:http-user-agent=yacine00
+#EXTINF:-1 tvg-id="" tvg-name="bein low-3" tvg-logo="" group-title="",bein low-3
+http://yacine-tvapk.ddns.net:8000/www.yacineapp.tv1/www.yacineapp.tv1/227
+#EXTVLCOPT:http-user-agent=yacine00
+#EXTINF:-1 tvg-id="" tvg-name="bein low-4" tvg-logo="" group-title="",bein low-4
+http://yacine-tvapk.ddns.net:8000/www.yacineapp.tv1/www.yacineapp.tv1/226
+#EXTVLCOPT:http-user-agent=yacine00
+#EXTINF:-1 tvg-id="" tvg-name="bein low-5" tvg-logo="" group-title="",bein low-5
+http://yacine-tvapk.ddns.net:8000/www.yacineapp.tv1/www.yacineapp.tv1/225
+#EXTINF:-1 tvg-id="" tvg-name="bein low-6" tvg-logo="" group-title="",bein low-6
+http://yacine-tvapk.ddns.net:8000/www.yacineapp.tv1/www.yacineapp.tv1/224
+#EXTVLCOPT:http-user-agent=yacine00
+#EXTINF:-1 tvg-id="" tvg-name="bein low-7" tvg-logo="" group-title="",bein low-7
+http://yacine-tvapk.ddns.net:8000/www.yacineapp.tv1/www.yacineapp.tv1/223
+#EXTVLCOPT:http-user-agent=yacine00
+#EXTINF:-1 tvg-id="" tvg-name="bein low-8" tvg-logo="" group-title="",bein low-8
+http://yacine-tvapk.ddns.net:8000/www.yacineapp.tv1/www.yacineapp.tv1/222
+#EXTVLCOPT:http-user-agent=yacine00
+#EXTINF:-1 tvg-id="" tvg-name="bein low-9" tvg-logo="" group-title="",bein low-9
+http://yacine-tvapk.ddns.net:8000/www.yacineapp.tv1/www.yacineapp.tv1/221
